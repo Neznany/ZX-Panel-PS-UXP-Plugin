@@ -32,11 +32,11 @@ In Photoshop, go to Plugins > ZX Panel to launch.
 
 📘 Documentation
 
-User Guide (PDF)
+User Guide (comnig soon)
 
-FAQ
+FAQ (coming soon)
 
-Video tutorial (YouTube)
+Video tutorial (coming soon)
 
 🐞 Support
 
@@ -44,4 +44,4 @@ If you encounter issues or want to suggest a feature, feel free to open an issue
 
 Email: [neznany+zxpanel@gmail.com]
 
-GitHub Issues: github.com/neznany/zx-panel/issues
+GitHub Issues: github.com/neznany/ZX-Panel-PS-UXP-Plugin/issues
