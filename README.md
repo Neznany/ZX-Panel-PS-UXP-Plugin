@@ -10,9 +10,7 @@ Whether you're creating loading screens, game assets, or retro-futuristic art �
 
 Live ZX Spectrum preview inside Photoshop
 
-Non-destructive editing — works with layers, masks, adjustment layers, shapes, smart objects
-
-Fixed ZX output regions with optional masking
+Non-destructive editing — works with layers, masks, adjustment layers, shapes, smart objects etc.
 
 50+ curated dithering patterns (matrix, pattern, diffusion, etc.)
 
