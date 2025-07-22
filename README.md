@@ -1,5 +1,7 @@
 ZX Panel
 
+![Panel in Photoshop](./screenshots/panel1zx-panel-screenshot-1.png)
+
 ZX Panel is a real-time image processing plugin for Adobe Photoshop that transforms your artwork into a native ZX Spectrum screen format — instantly and non-destructively.
 
 Whether you're creating loading screens, game assets, or retro-futuristic art — ZX Panel brings an authentic 8-bit experience directly into your modern workflow.
