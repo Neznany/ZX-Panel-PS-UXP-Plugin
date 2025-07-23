@@ -17,6 +17,10 @@ If the current document does not meet these criteria, the preview will show a me
 
 ---
 
+<img src="docs/images/zx-panel-ui.png" alt="Panel UI" width="444" height="80">
+
+---
+
 ## Preview Panel
 
 The large central preview displays the real-time ZX-converted version of the currently active document.
@@ -26,8 +30,6 @@ To ensure **sharp, crisp pixels** without moiré artifacts, press <img src="docs
 Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img src="docs/images/zoomin.png" alt="Zoom In" width="24"> buttons, controlling preview scale (1x to 4x).
 
 ---
-
-<img src="docs/images/zx-panel-ui.png" alt="Panel UI" width="444" height="80">
 
 ## Paste Button
 
