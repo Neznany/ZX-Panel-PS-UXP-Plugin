@@ -4,7 +4,7 @@
 
 ---
 
-## 🧽 General Info
+## General Info
 
 ZX Panel is designed for artists creating ZX Spectrum graphics. It automates all attribute-related limitations (clash rules, color limits, bright/flash attributes, etc.), while retaining the full power of Photoshop's layer-based workflow.
 
@@ -17,9 +17,7 @@ If the current document does not meet these criteria, the preview will show a me
 
 ---
 
-## 🖼 Preview Panel
-
-<img src="docs/images/zx-panel-ui.png" alt="Panel UI" width="320" height="58">
+## Preview Panel
 
 The large central preview displays the real-time ZX-converted version of the currently active document.
 
@@ -29,13 +27,15 @@ Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img
 
 ---
 
-## 🗌 Paste Button
+<img src="docs/images/zx-panel-ui.png" alt="Panel UI" width="444" height="80">
+
+## Paste Button
 
 <img src="docs/images/paste.png" alt="Paste" width="24"> **Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
 
 ---
 
-## 🎛 Dithering Panel
+## Dithering Panel
 
 * **Dropdown Menu**: Choose a dithering algorithm that best suits your artwork.
 * <img src="docs/images/flip.png" alt="Flip" width="24"> **Flip Button**: Available for algorithms that support horizontal mirroring.
@@ -43,7 +43,7 @@ Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img
 
 ---
 
-## 🌈 Attribute Controls
+## Attribute Controls
 
 <img src="docs/images/bright.png" alt="Bright" width="24"> **Bright Button**:
 
@@ -59,7 +59,7 @@ Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img
 
 ---
 
-## 📥 Import / 📤 Export
+## Import / Export
 
 <img src="docs/images/import.png" alt="Import" width="24"> **Import**:
 
