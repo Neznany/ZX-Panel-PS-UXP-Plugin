@@ -30,7 +30,7 @@ In Photoshop, go to Plugins > ZX Panel to launch.
 
 📘 Documentation
 
-User Guide (comnig soon)
+[User Guide](docs/HELP.md)
 
 FAQ (coming soon)
 
