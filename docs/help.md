@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 General Info
+## 🧽 General Info
 
 ZX Panel is designed for artists creating ZX Spectrum graphics. It automates all attribute-related limitations (clash rules, color limits, bright/flash attributes, etc.), while retaining the full power of Photoshop's layer-based workflow.
 
@@ -19,35 +19,37 @@ If the current document does not meet these criteria, the preview will show a me
 
 ## 🖼 Preview Panel
 
+<img src="docs/images/zx-panel-ui.png" alt="Panel UI" width="320" height="58">
+
 The large central preview displays the real-time ZX-converted version of the currently active document.
 
-To ensure **sharp, crisp pixels** without moiré artifacts, press ![Sys Scale](docs/images/prefs.png) **Sys Scale Adjustment** and select the correct system scale (matches your OS settings).
+To ensure **sharp, crisp pixels** without moiré artifacts, press <img src="docs/images/prefs.png" alt="Sys Scale" width="24"> **Sys Scale Adjustment** and select the correct system scale (matches your OS settings).
 
-Below are ![Zoom Out](docs/images/zoomout.png) and ![Zoom In](docs/images/zoomin.png) buttons, controlling preview scale (1x to 4x).
+Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img src="docs/images/zoomin.png" alt="Zoom In" width="24"> buttons, controlling preview scale (1x to 4x).
 
 ---
 
-## 📋 Paste Button
+## 🗌 Paste Button
 
-![Paste](docs/images/paste.png) **Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
+<img src="docs/images/paste.png" alt="Paste" width="24"> **Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
 
 ---
 
 ## 🎛 Dithering Panel
 
 * **Dropdown Menu**: Choose a dithering algorithm that best suits your artwork.
-* ![Flip](docs/images/flip.png) **Flip Button**: Available for algorithms that support horizontal mirroring.
+* <img src="docs/images/flip.png" alt="Flip" width="24"> **Flip Button**: Available for algorithms that support horizontal mirroring.
 * **Strength Slider**: Controls dithering intensity (0%–100%). With threshold selected, it acts as brightness cutoff level.
 
 ---
 
 ## 🌈 Attribute Controls
 
-![Bright](docs/images/bright.png) **Bright Button**:
+<img src="docs/images/bright.png" alt="Bright" width="24"> **Bright Button**:
 
 * Toggles bright mode: off / on / auto-detect per attribute block.
 
-![Flash](docs/images/flash.png) **Flash Button**:
+<img src="docs/images/flash.png" alt="Flash" width="24"> **Flash Button**:
 
 * Activates flash layer mode.
 * ZX Panel will look for a layer named `FLASH` (or create one if missing).
@@ -59,11 +61,11 @@ Below are ![Zoom Out](docs/images/zoomout.png) and ![Zoom In](docs/images/zoomin
 
 ## 📥 Import / 📤 Export
 
-![Import](docs/images/import.png) **Import**:
+<img src="docs/images/import.png" alt="Import" width="24"> **Import**:
 
 * Load a standard `.scr` (6912 bytes) screen file — output will be placed in a new layer.
 
-![Export](docs/images/export.png) **Export**:
+<img src="docs/images/export.png" alt="Export" width="24"> **Export**:
 
 * Save the current document as a `.scr` file.
 * If smaller than 256×192 px, it will be padded with black.
