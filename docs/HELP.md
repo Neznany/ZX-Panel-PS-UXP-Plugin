@@ -25,22 +25,22 @@ If the current document does not meet these criteria, the preview will show a me
 
 The large central preview displays the real-time ZX-converted version of the currently active document.
 
-To ensure **sharp, crisp pixels** without moiré artifacts, press <img src="images/prefs.png" alt="Sys Scale" width="24"> **Sys Scale Adjustment** and select the correct system scale (matches your OS settings).
+To ensure **sharp, crisp pixels** without moiré artifacts, press **System Scale Adjustment Button** <img src="images/prefs.png" alt="Sys Scale" width="24"> and select the correct system scale (matches your OS settings).
 
-Below are <img src="images/zoomout.png" alt="Zoom Out" width="24"> and <img src="images/zoomin.png" alt="Zoom In" width="24"> buttons, controlling preview scale (1x to 4x).
+Below are **Zoom Out** <img src="images/zoomout.png" alt="Zoom Out" width="24"> and **Zoom In** <img src="images/zoomin.png" alt="Zoom In" width="24"> buttons, controlling preview scale (1x to 4x).
 
 ---
 
 ## Paste Button
 
-<img src="images/paste.png" alt="Paste" width="24"> **Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
+**Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
 
 ---
 
 ## Dithering Panel
 
 * **Dropdown Menu**: Choose a dithering algorithm that best suits your artwork.
-* <img src="images/flip.png" alt="Flip" width="24"> **Flip Button**: Available for algorithms that support horizontal mirroring.
+* **Flip Button** <img src="images/flip.png" alt="Flip" width="24">: Available for algorithms that support horizontal mirroring.
 * **Strength Slider**: Controls dithering intensity (0%–100%). With threshold selected, it acts as brightness cutoff level.
 
 ---
