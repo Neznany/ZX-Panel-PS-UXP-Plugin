@@ -20,7 +20,7 @@ If the current document does not meet these criteria, the preview will show a me
 ## 🖼 Preview Panel
 
 The large central preview displays the real-time ZX-converted version of the currently active document.
-
+<img src="docs/images/zoomout.png" alt="Zoom Out" width="20">
 To ensure **sharp, crisp pixels** without moiré artifacts, press ![Sys Scale](docs/images/prefs.png) **Sys Scale Adjustment** and select the correct system scale (matches your OS settings).
 
 Below are ![Zoom Out](docs/images/zoomout.png) and ![Zoom In](docs/images/zoomin.png) buttons, controlling preview scale (1x to 4x).
