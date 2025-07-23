@@ -47,11 +47,11 @@ Below are **Zoom Out** <img src="images/zoomout.png" alt="Zoom Out" width="24"> 
 
 ## Attribute Controls
 
-<img src="images/bright.png" alt="Bright" width="24"> **Bright Button**:
+**Bright Button** <img src="images/bright.png" alt="Bright" width="24">:
 
 * Toggles bright mode: off / on / auto-detect per attribute block.
 
-<img src="images/flash.png" alt="Flash" width="24"> **Flash Button**:
+**Flash Button** <img src="images/flash.png" alt="Flash" width="24">:
 
 * Activates flash layer mode.
 * ZX Panel will look for a layer named `FLASH` (or create one if missing).
@@ -63,11 +63,11 @@ Below are **Zoom Out** <img src="images/zoomout.png" alt="Zoom Out" width="24"> 
 
 ## Import / Export
 
-<img src="images/import.png" alt="Import" width="24"> **Import**:
+**Import** <img src="images/import.png" alt="Import" width="24">:
 
 * Load a standard `.scr` (6912 bytes) screen file — output will be placed in a new layer.
 
-<img src="images/export.png" alt="Export" width="24"> **Export**:
+**Export** <img src="images/export.png" alt="Export" width="24">:
 
 * Save the current document as a `.scr` file.
 * If smaller than 256×192 px, it will be padded with black.
