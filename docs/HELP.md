@@ -82,7 +82,7 @@ Below are **Zoom Out** <img src="images/zoomout.png" alt="Zoom Out" width="24"> 
 
 ---
 
-## 💬 Need help?
+## 💬 Contacts
 
-Contact: [zxpanel.plugin@gmail.com](mailto:zxpanel.plugin@gmail.com)<br>
+E-mail: [zxpanel.dev@gmail.com](mailto:zxpanel.dev@gmail.com)<br>
 GitHub: [github.com/Neznany/ZX-Panel-PS-UXP-Plugin](https://github.com/Neznany/ZX-Panel-PS-UXP-Plugin)
