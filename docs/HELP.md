@@ -4,7 +4,7 @@
 
 ---
 
-## 🧽 General Info
+## General Info
 
 ZX Panel is designed for artists creating ZX Spectrum graphics. It automates all attribute-related limitations (clash rules, color limits, bright/flash attributes, etc.), while retaining the full power of Photoshop's layer-based workflow.
 
@@ -17,39 +17,41 @@ If the current document does not meet these criteria, the preview will show a me
 
 ---
 
-## 🖼 Preview Panel
+<img src="images/zx-panel-ui.png" alt="Panel UI" width="444" height="80">
 
-<img src="docs/images/zx-panel-ui.png" alt="Panel UI" width="320" height="58">
+---
+
+## Preview Panel
 
 The large central preview displays the real-time ZX-converted version of the currently active document.
 
-To ensure **sharp, crisp pixels** without moiré artifacts, press <img src="docs/images/prefs.png" alt="Sys Scale" width="24"> **Sys Scale Adjustment** and select the correct system scale (matches your OS settings).
+To ensure **sharp, crisp pixels** without moiré artifacts, press <img src="images/prefs.png" alt="Sys Scale" width="24"> **Sys Scale Adjustment** and select the correct system scale (matches your OS settings).
 
-Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img src="docs/images/zoomin.png" alt="Zoom In" width="24"> buttons, controlling preview scale (1x to 4x).
-
----
-
-## 🗌 Paste Button
-
-<img src="docs/images/paste.png" alt="Paste" width="24"> **Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
+Below are <img src="images/zoomout.png" alt="Zoom Out" width="24"> and <img src="images/zoomin.png" alt="Zoom In" width="24"> buttons, controlling preview scale (1x to 4x).
 
 ---
 
-## 🎛 Dithering Panel
+## Paste Button
+
+<img src="images/paste.png" alt="Paste" width="24"> **Paste** inserts a rendered copy of the preview into a new layer (useful to fix parts of your artwork into ZX format mid-process).
+
+---
+
+## Dithering Panel
 
 * **Dropdown Menu**: Choose a dithering algorithm that best suits your artwork.
-* <img src="docs/images/flip.png" alt="Flip" width="24"> **Flip Button**: Available for algorithms that support horizontal mirroring.
+* <img src="images/flip.png" alt="Flip" width="24"> **Flip Button**: Available for algorithms that support horizontal mirroring.
 * **Strength Slider**: Controls dithering intensity (0%–100%). With threshold selected, it acts as brightness cutoff level.
 
 ---
 
-## 🌈 Attribute Controls
+## Attribute Controls
 
-<img src="docs/images/bright.png" alt="Bright" width="24"> **Bright Button**:
+<img src="images/bright.png" alt="Bright" width="24"> **Bright Button**:
 
 * Toggles bright mode: off / on / auto-detect per attribute block.
 
-<img src="docs/images/flash.png" alt="Flash" width="24"> **Flash Button**:
+<img src="images/flash.png" alt="Flash" width="24"> **Flash Button**:
 
 * Activates flash layer mode.
 * ZX Panel will look for a layer named `FLASH` (or create one if missing).
@@ -59,13 +61,13 @@ Below are <img src="docs/images/zoomout.png" alt="Zoom Out" width="24"> and <img
 
 ---
 
-## 📥 Import / 📤 Export
+## Import / Export
 
-<img src="docs/images/import.png" alt="Import" width="24"> **Import**:
+<img src="images/import.png" alt="Import" width="24"> **Import**:
 
 * Load a standard `.scr` (6912 bytes) screen file — output will be placed in a new layer.
 
-<img src="docs/images/export.png" alt="Export" width="24"> **Export**:
+<img src="images/export.png" alt="Export" width="24"> **Export**:
 
 * Save the current document as a `.scr` file.
 * If smaller than 256×192 px, it will be padded with black.
