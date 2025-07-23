@@ -75,7 +75,7 @@ Below are **Zoom Out** <img src="images/zoomout.png" alt="Zoom Out" width="24"> 
 
 ---
 
-## 💡 Pro Tips
+## 💡 Tips
 
 * Work in **16-bit mode** for cleaner gradients.
 * Disable Photoshop's own **dithering** for brushes and gradients to avoid unwanted noise.
