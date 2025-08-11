@@ -40,6 +40,5 @@ Video tutorial (coming soon)
 
 If you encounter issues or want to suggest a feature, feel free to open an issue or contact us:
 
-Email: [neznany+zxpanel@gmail.com]
-
-GitHub Issues: github.com/neznany/ZX-Panel-PS-UXP-Plugin/issues
+[Email: [neznany+zxpanel@gmail.com]
+GitHub Issues: github.com/neznany/ZX-Panel-PS-UXP-Plugin/issues](https://github.com/Neznany/ZX-Panel-PS-UXP-Plugin)
