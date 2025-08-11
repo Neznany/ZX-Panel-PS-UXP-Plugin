@@ -22,7 +22,7 @@ Import/export .scr files directly from the panel
 
 📦 Installation
 
-Download the latest .ccx file from Gumroad or Adobe Marketplace.
+Download the [latest .ccx file](https://exchange.adobe.com/apps/cc/66b98268/zx-panel) from Gumroad or Adobe Marketplace.
 
 Double-click the .ccx to install via the Creative Cloud Desktop app.
 
